@@ -1,0 +1,7 @@
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.csproj.AssemblyReference.cache
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.Properties.Resources.resources
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.csproj.GenerateResource.cache
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.csproj.CoreCompileInputs.cache
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\FishBot3._3._5a.MainWindow.resources
+C:\Users\Rock\source\repos\RockFishBot\RockFishBot\obj\Debug\RockFishBot.MainWindow.resources
